@@ -1,0 +1,20 @@
+Eragon,Paolini Christopher,300,10
+Eldest,Paolini Christopher,500,9
+Brisingr,Paolini Christopher,600,9
+Inheritance,Paolini Christopher,700,10
+Fellowship of the Ring,Tolkien J. R. R.,398,7
+The Two Towers,Tolkien J. R. R.,398,8
+The Return of the King,Tolkien J. R. R.,490,10
+Moby Dick,Melville Herman,927,6
+Romeo and Juliet,Shakespeare William,221,5
+Anna Karenina,Tolstoy Leo,864,8
+Odyssey,Homer,416,5
+Iliad,Homer,443,5
+Harry Potter and the Order of the Phoenix,Rowling J. K. K,870,10
+The Hunger Games,Collins Suzanne,374,9
+To Kill a Mockingbird,Lee Harper,324,8
+The Chronicles of Narnia,Lewis C. S.,767,10
+The Giving Tree,Silverstein Shel,64,9
+The Hitchhikers Guide to the Galaxy,Adams Douglas,216,8
+The Book Thief,Zusak Marcus,550,10
+The Davinci Code,Brown Dan,490,7
